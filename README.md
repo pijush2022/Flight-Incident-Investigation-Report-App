@@ -73,4 +73,4 @@ This project is licensed under the MIT License.
 - **Your Name** - [GitHub Profile](https://github.com/pijush2022)
 
 ## Contact
-For any inquiries, open an issue or reach out at [your-email@example.com](mailto:your-pijushpl2023@gmail.com).
+For any inquiries, open an issue or reach out at [your-pijushpl2023@gmail.com](mailto:your-pijushpl2023@gmail.com).
